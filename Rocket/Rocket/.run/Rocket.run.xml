@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Rocket" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.dharmendra.myRocket.ShipRocket" />
+    <module name="weekly_test" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
