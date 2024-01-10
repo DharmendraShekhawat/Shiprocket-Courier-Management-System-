@@ -1,5 +1,5 @@
 # Project Name
-Ship Rocket
+Shiprocket
 
 ![download](https://github.com/DharmendraShekhawat/Ship-Rocket/assets/142703677/f2533454-be3a-4b1c-bfaf-82fad9f1ec35)
 
